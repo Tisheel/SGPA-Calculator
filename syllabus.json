@@ -5,22 +5,22 @@
             {
                 "subjectCode": "BMATS101",
                 "subjectTitle": "Mathematics for CSE Stream-1",
-                "credit": 3
+                "credit": 4
             },
             {
                 "subjectCode": "BMATS201",
                 "subjectTitle": "Mathematics for CSE Stream-2",
-                "credit": 3
+                "credit": 4
             },
             {
                 "subjectCode": "BPHYS102/202",
                 "subjectTitle": "Physics for CSE Stream",
-                "credit": 3
+                "credit": 4
             },
             {
                 "subjectCode": "BCHES102/202",
                 "subjectTitle": "Chemistry for CSE Stream",
-                "credit": 3
+                "credit": 4
             },
             {
                 "subjectCode": "BPOPS102/203",
