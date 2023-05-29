@@ -1,0 +1,112 @@
+[
+    {
+        "stream": "Computer Science",
+        "subjects": [
+            {
+                "subjectCode": "BMATS101",
+                "subjectTitle": "Mathematics for CSE Stream-1",
+                "credit": 3
+            },
+            {
+                "subjectCode": "BMATS201",
+                "subjectTitle": "Mathematics for CSE Stream-2",
+                "credit": 3
+            },
+            {
+                "subjectCode": "BPHYS102/202",
+                "subjectTitle": "Physics for CSE Stream",
+                "credit": 3
+            },
+            {
+                "subjectCode": "BCHES102/202",
+                "subjectTitle": "Chemistry for CSE Stream",
+                "credit": 3
+            },
+            {
+                "subjectCode": "BPOPS102/203",
+                "subjectTitle": "Principle Of Programming for CSE Stream",
+                "credit": 3
+            }
+        ]
+    },
+    {
+        "stream": "Common Courses",
+        "subjects": [
+            {
+                "subjectCode": "BCEDK103/203",
+                "subjectTitle": "Computer Aided Engineering drawings",
+                "credit": 3
+            },
+            {
+                "subjectCode": "BENGK106/206",
+                "subjectTitle": "Communicative English",
+                "credit": 1
+            },
+            {
+                "subjectCode": "BICOK107/207",
+                "subjectTitle": "Indian Constitution",
+                "credit": 1
+            },
+            {
+                "subjectCode": "BSFHK108/208",
+                "subjectTitle": "Scientific Foundation Of Health",
+                "credit": 1
+            },
+            {
+                "subjectCode": "BIDTK108/208",
+                "subjectTitle": "Inovation and Design Thinking",
+                "credit": 1
+            }
+        ]
+    },
+    {
+        "stream": "Engineering Science Cource",
+        "subjects": [
+            {
+                "subjectCode": "BESCK104A/204A",
+                "subjectTitle": "Intro to Civil Engineering",
+                "credit": 3
+            },
+            {
+                "subjectCode": "BESCK104B/204B",
+                "subjectTitle": "Intro to Electrical Engineering",
+                "credit": 3
+            },
+            {
+                "subjectCode": "BESCK104C/204C",
+                "subjectTitle": "Intro to Electronics Engineering",
+                "credit": 3
+            },
+            {
+                "subjectCode": "BESCK104D/204D",
+                "subjectTitle": "Intro to Mechanical Engineering",
+                "credit": 3
+            },
+            {
+                "subjectCode": "BESCK104E/204E",
+                "subjectTitle": "Intro to C Programming",
+                "credit": 3
+            }
+        ]
+    },
+    {
+        "stream": "Emerging Technology Cource",
+        "subjects": [
+            {
+                "subjectCode": "BETCK105H/205H",
+                "subjectTitle": "Intro to IOT",
+                "credit": 3
+            },
+            {
+                "subjectCode": "BETCK105I/205I",
+                "subjectTitle": "Intro to Cyber Security",
+                "credit": 3
+            },
+            {
+                "subjectCode": "BETCK105E/205E",
+                "subjectTitle": "Renewable Energy",
+                "credit": 3
+            }
+        ]
+    }
+]

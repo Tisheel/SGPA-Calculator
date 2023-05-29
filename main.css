@@ -1,0 +1,45 @@
+* {
+    font-family: monospace;
+}
+
+#submit-btn {
+    margin: 10px;
+    cursor: pointer;
+}
+
+#btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#btn-container code {
+    color: gray;
+    font-weight: bold;
+}
+
+#main-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#left-container {
+    font-size: 100px;
+    display: flex;
+    gap: 10px;
+    padding: 10%;
+}
+
+#footer {
+    display: flex;
+    justify-content: end;
+    gap: 5px;
+}
+
+@media screen and (max-width: 768px) {
+    #main-container {
+        display: flex;
+        flex-direction: column;
+    }
+}
