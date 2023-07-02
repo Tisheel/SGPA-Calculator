@@ -52,7 +52,7 @@ submitBtn.addEventListener('click', async () => {
                 if (item.stream === stream) {
                     const subject = item.subjects.find(e => e.subjectCode === subjectCode)
                     creditXmarks = creditXmarks + subject.credit * (Math.floor(subjectMarks / 10) + 1)
-                    credits = credits + subject.credit)
+                    credits = credits + subject.credit
                 }
             }
         }
