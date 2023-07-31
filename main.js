@@ -39,8 +39,8 @@ submitBtn.addEventListener('click', async () => {
     const subjects = document.querySelectorAll('input[type="number"]')
     const data = await getSyllabus()
 
-    const creditXmarks = 0
-    const credits = 0
+    let creditXmarks = 0
+    let credits = 0
 
     for (marks of subjects) {
         if (marks.value > 0) {
@@ -51,7 +51,7 @@ submitBtn.addEventListener('click', async () => {
             for (item of data) {
                 if (item.stream === stream) {
                     const subject = item.subjects.find(e => e.subjectCode === subjectCode)
-                    creditXmarks = creditXmarks + subject.credit * (Math.floor(subjectMarks / 10) + 1)
+                    creditXmarks = creditXmarks + (subject.credit * (Math.floor(subjectMarks / 10) + 1))
                     credits = credits + subject.credit
                 }
             }
