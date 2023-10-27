@@ -43,6 +43,11 @@
                 "credit": 1
             },
             {
+                "subjectCode": "BPWSK106-206",
+                "subjectTitle": "Professional Writing Skill in English",
+                "credit": 1
+            },
+            {
                 "subjectCode": "BICOK107/207",
                 "subjectTitle": "Indian Constitution",
                 "credit": 1
@@ -55,6 +60,16 @@
             {
                 "subjectCode": "BIDTK108/208",
                 "subjectTitle": "Inovation and Design Thinking",
+                "credit": 1
+            },
+            {
+                "subjectCode": "BKSKK107-207",
+                "subjectTitle": "Samskrutika Kannada",
+                "credit": 1
+            },
+            {
+                "subjectCode": "BKBKK107-207",
+                "subjectTitle": "Balake Kannada",
                 "credit": 1
             }
         ]
@@ -105,6 +120,31 @@
             {
                 "subjectCode": "BETCK105E/205E",
                 "subjectTitle": "Renewable Energy",
+                "credit": 3
+            }
+        ]
+    },
+    {
+        "stream": "Programming Language Courses-I/II",
+        "subjects": [
+            {
+                "subjectCode": "BPLCK105A-205A",
+                "subjectTitle": "Introduction to Web programming",
+                "credit": 3
+            },
+            {
+                "subjectCode": "BPLCK105B-205B",
+                "subjectTitle": "Introduction to Python Programming",
+                "credit": 3
+            },
+            {
+                "subjectCode": "BPLCK105C-205C",
+                "subjectTitle": "Basics of Java Programming",
+                "credit": 3
+            },
+            {
+                "subjectCode": "BPLCK105D-205D",
+                "subjectTitle": "Introduction to c++ programming",
                 "credit": 3
             }
         ]
