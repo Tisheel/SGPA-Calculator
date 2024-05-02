@@ -148,5 +148,50 @@
                 "credit": 3
             }
         ]
+    },
+     {
+        "stream": "BE Computer Science",
+        "subjects": [
+            {
+                "subjectCode": "BCS301",
+                "subjectTitle": "MATHEMATICS",
+                "credit": 4
+            },
+            {
+                "subjectCode": "BCS302",
+                "subjectTitle": "DDCO",
+                "credit": 4
+            },
+           {
+                "subjectCode": "BCS303",
+                "subjectTitle": "OS",
+                "credit": 4
+            },
+           {
+                "subjectCode": "BCS304",
+                "subjectTitle": "DSA",
+                "credit": 3
+            },
+            {
+                "subjectCode": "BCS305",
+                "subjectTitle": "DSA-LAB",
+                "credit": 1
+            },
+            {
+                "subjectCode": "BCS307",
+                "subjectTitle": "SCR",
+                "credit": 1
+            },
+            {
+                "subjectCode": "BCS306B",
+                "subjectTitle": "OPPS IN C++",
+                "credit": 3
+            },
+            {
+                "subjectCode": "BCS358D",
+                "subjectTitle": "DVPY",
+                "credit": 1
+            }
+        ]
     }
 ]
